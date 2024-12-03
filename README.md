@@ -1,6 +1,6 @@
-# Project from Typescript with Vue.js 3 Course
+#  Personal Journal 
 
-This is the project made at  the TypeScript with Vue.js 3 Course.
+This is the project made at the TypeScript with Vue.js 3 Course.
 
 ## How to Install
 
